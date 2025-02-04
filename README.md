@@ -36,6 +36,9 @@ This project demonstrates a simple implementation of Retrieval Augmented Generat
 
 **Output:** The system will retrieve relevant wines from the database and provide a recommendation based on the query and retrieved information.
 
+## Demo:
+![Screenshot (89)](https://github.com/user-attachments/assets/10a24d43-7c00-49a5-8de4-fb941359a76d)
+
 ## Benefits of RAG
 
 - **Improved Relevance:** RAG ensures that the LLM's responses are grounded in relevant data, leading to more accurate and specific recommendations.
