@@ -1,0 +1,8 @@
+qdrant-client
+sentence-transformers
+openai
+rich
+rich-theme-manager
+pandas
+python-dotenv
+os
